@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "5a4e",
+      "code": "PROD-0001",
+      "name": "Blackmores Omega Double High Strength Fish Oil",
+      "importDate": "2022-01-24",
+      "quantity": 1000,
+      "price": 598000,
+      "categoryId": 2
+    },
+    {
+      "id": "a743",
+      "code": "PROD-0002",
+      "name": "Blackmores CoQ10 150mg",
+      "importDate": "2023-02-03",
+      "quantity": 100,
+      "price": 513000,
+      "categoryId": 2
+    },
+    {
+      "id": "78f6",
+      "code": "PROD-0003",
+      "name": "Thuốc kháng sinh Alpha",
+      "importDate": "2023-10-15",
+      "quantity": 20000,
+      "price": 1350000,
+      "categoryId": 3
+    },
+    {
+      "id": "2c2b",
+      "code": "PROD-0004",
+      "name": "Efferalgan",
+      "importDate": "2021-11-11",
+      "quantity": 15000,
+      "price": 300000,
+      "categoryId": 1
+    },
+    {
+      "id": "c593",
+      "code": "PROD-0004",
+      "name": "Nhân sâm 200 năm",
+      "importDate": "2024-02-20",
+      "quantity": 50,
+      "price": 30000000,
+      "categoryId": 2
+    },
+    {
+      "id": "1399",
+      "code": "PROD-0006",
+      "name": "Morphin",
+      "importDate": "2022-12-21",
+      "quantity": 100,
+      "price": 20000000,
+      "categoryId": 1
+    },
+    {
+      "id": "203e",
+      "code": "PROD-0007",
+      "name": "Amoxicillin",
+      "importDate": "2021-10-12",
+      "quantity": 500,
+      "price": 2000000,
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Thuốc giảm đau",
+      "description": "Thuốc giảm đau đầu, đau cơ"
+    },
+    {
+      "id": "2",
+      "name": "Thuốc bổ",
+      "description": "Vitamin và khoáng chất"
+    },
+    {
+      "id": "3",
+      "name": "Thuốc kháng sinh",
+      "description": "Thuốc trị nhiễm khuẩn"
+    }
+  ]
+}
