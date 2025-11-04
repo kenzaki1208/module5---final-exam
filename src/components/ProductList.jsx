@@ -53,7 +53,7 @@ export default function ProductList() {
     };
 
     return (
-        <div className="container py-4">
+        <div className="container py-4 bg-white">
             <h2
                 className="text-center mb-4 fw-bold text-light py-3 rounded shadow-sm"
                 style={{
@@ -144,7 +144,7 @@ export default function ProductList() {
                 </div>
             )}
 
-            <p className="text-center mb-0 mt-4 p-0">&copy; CodeGym 2025</p>
+            <p className="text-center mt-4 mb-0">&copy; CodeGym 2025</p>
         </div>
     );
 }
