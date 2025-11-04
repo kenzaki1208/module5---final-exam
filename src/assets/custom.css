@@ -1,6 +1,3 @@
-/* src/assets/custom.css */
-
-/* Form card style */
 .form-card {
   max-width: 600px;
   width: 100%;
@@ -8,19 +5,16 @@
   border-radius: 15px;
 }
 
-/* Button hover effects */
 .btn-animated:hover {
   transform: scale(1.05);
   transition: all 0.2s ease-in-out;
 }
 
-/* Table row hover */
 .table-hover tbody tr:hover {
   background-color: #f1f9ff;
   transition: background-color 0.2s ease-in-out;
 }
 
-/* Inputs */
 .form-control,
 .form-select {
   border-radius: 10px;
@@ -33,12 +27,10 @@
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
 }
 
-/* Card hover */
 .card {
   border-radius: 12px;
 }
 
-/* Header gradient */
 h2 {
   letter-spacing: 0.5px;
 }
